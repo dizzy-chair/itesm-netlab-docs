@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Netlab Activity Docs',
-			social: [{ icon: 'gitlab', label: 'GitLab', href: 'https://gitlab.com/katzenhummer/academic-netlab-docs' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/dizzy-chair/itesm-netlab-docs' }],
       sidebar: [
         {
           label: 'Overview',
