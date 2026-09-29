@@ -17,12 +17,14 @@ export default defineConfig({
 					label: 'Labs',
 					items: [
 						{ label: 'Lab 01', slug: 'labs/lab01' },
+						{ label: 'Lab 02', slug: 'labs/lab02' },
 					],
 				},
 				{
 					label: 'Challenges',
 					items: [
 						{ label: 'Challenge 01', slug: 'challenges/ch01' },
+						{ label: 'Challenge 02', slug: 'challenges/ch02' },
 					],
 				},
 			],
